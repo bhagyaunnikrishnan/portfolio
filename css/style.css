@@ -355,9 +355,13 @@ section {
 
 .js {
     animation: js 2s;
-    width: 75%;
+    width: 70%;
 }
 .py {
+    animation: py 2s;
+    width: 75%;
+}
+.java {
     animation: py 2s;
     width: 60%;
 }
