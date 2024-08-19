@@ -350,14 +350,20 @@ section {
 
 .css {
     animation: css 2s;
-    width: 85%;
+    width: 90%;
 }
 
 .js {
     animation: js 2s;
     width: 70%;
 }
+
 .py {
+    animation: py 2s;
+    width: 85%;
+}
+
+.c {
     animation: py 2s;
     width: 75%;
 }
